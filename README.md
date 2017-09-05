@@ -1,6 +1,6 @@
 # Project 'Shinobi'
 Diabolo meets Naruto RPG Game
-![Diabolo](https://cdn1-www.playstationlifestyle.net/assets/uploads/2016/07/diablo-3-ps4-555x328-555x328.png)
+![Diabolo](https://static.giantbomb.com/uploads/original/11/117587/2256069-diablo_iii_2012_07_04_22_13_34_632.jpg)
 ![Naruto](http://images.saiyanisland.com/data/623/Naruto-Storm-4-212.jpg)
 
 **Genre**: RGP, 3D Person Fixed Camera
